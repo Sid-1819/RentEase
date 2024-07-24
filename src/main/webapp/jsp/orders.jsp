@@ -5,8 +5,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<%@include file="include/head.jsp" %>
-<%@include file="include/nav.jsp" %>
+<%@include file="../include/head.jsp" %>
+<%@include file="../include/nav.jsp" %>
 </head>
 <body>
 

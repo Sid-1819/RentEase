@@ -29,4 +29,14 @@
     <servlet-name>Register_servlet</servlet-name>
     <url-pattern>/Register_servlet</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Cart_servlet</display-name>
+    <servlet-name>Cart_servlet</servlet-name>
+    <servlet-class>com.rentease.servlet.Cart_servlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Cart_servlet</servlet-name>
+    <url-pattern>/Cart_servlet</url-pattern>
+  </servlet-mapping>
 </web-app>
